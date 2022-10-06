@@ -6,5 +6,6 @@ story = "once upon a time there was a person named A who helped me in learning P
 # print(story.count("c"))
 # print(story.capitalize())
 # print(story.find("upon"))
+# These are some string functions
 print(story.replace("A", "PERSONA"))
  
